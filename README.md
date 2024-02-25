@@ -1,7 +1,6 @@
 # IoT Smart Bin Log Book
 
 <aside>
-📖 **Table of contents**
 
 </aside>
 
@@ -32,7 +31,7 @@ We compiled a list of potential components and evaluated their features.
 **Component**: Ultrasonic Sensor
 
 <aside>
-💡 **Evaluation:**
+**💡Evaluation:**
 
 </aside>
 
@@ -45,7 +44,7 @@ We compiled a list of potential components and evaluated their features.
 **Component**: MQ2 Gas Sensor
 
 <aside>
-💡 **Evaluation:**
+**💡Evaluation:**
 
 </aside>
 
@@ -74,7 +73,7 @@ We compiled a list of potential components and evaluated their features.
 **Component**: Buzzer
 
 <aside>
-💡 **Evaluation:**
+**💡Evaluation:**
 
 </aside>
 
@@ -91,7 +90,7 @@ We compiled a list of potential components and evaluated their features.
 **Component**: Servo Motor
 
 <aside>
-💡 **Evaluation:**
+**💡Evaluation:**
 
 </aside>
 
@@ -108,7 +107,7 @@ We compiled a list of potential components and evaluated their features.
 **Component**: VL53L0X Distance Sensor
 
 <aside>
-💡 **Evaluation:**
+**💡Evaluation:**
 
 </aside>
 
@@ -129,7 +128,7 @@ We compiled a list of potential components and evaluated their features.
 **Component**: ESP32 WiFi Module
 
 <aside>
-💡 **Evaluation:**
+**💡Evaluation:**
 
 </aside>
 
@@ -144,7 +143,7 @@ We compiled a list of potential components and evaluated their features.
 **Component**: Blynk Mobile Application
 
 <aside>
-💡 **Evaluation:**
+**💡Evaluation:**
 
 </aside>
 
@@ -159,7 +158,7 @@ We compiled a list of potential components and evaluated their features.
 **Component**: 18650 Battery and Lithium Battery Shield 18650 V8
 
 <aside>
-💡 **Evaluation:**
+**💡Evaluation:**
 
 </aside>
 
@@ -184,7 +183,7 @@ We compiled a list of potential components and evaluated their features.
 **Components**: Arduino Uno R3
 
 <aside>
-💡 Evaluation
+**💡Evaluation:**
 
 </aside>
 
